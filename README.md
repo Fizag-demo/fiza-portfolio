@@ -25,10 +25,25 @@ It answers grocery-related queries, handles FAQs, detects festival offers, and p
 
 ---
 
-## 🧪 QA & Testing Experience
-- **Manual Testing:** Test case design, defect reporting, regression & smoke testing  
-- **Automation:** Selenium with Python, API testing (Postman, REST APIs)  
-- **Tools:** JIRA, TestLink, Excel, SQL, Robot Framework  
+---
+
+### 🧰 My QA & Automation Toolkit
+
+| Category | Tools / Technologies |
+|-----------|----------------------|
+| Manual Testing | SDLC, STLC, Test Design, Traceability |
+| Test Management | JIRA, Excel, Google Sheets |
+| API Testing | SoapUI |
+| Automation | Selenium WebDriver (Java/Python), Robot Framework |
+| Databases | SQL Developer |
+| Debugging | Chrome DevTools |
+| Reporting | QA Dashboards, Defect Metrics |
+| Methodologies | Agile / Scrum, Regression, UAT |
+| Domain Expertise | BFSI, Payments, Fraud Systems |
+| Interests | AI-driven QA, Prompt Engineering, Chatbots |
+
+---
+  
 
 ---
 
