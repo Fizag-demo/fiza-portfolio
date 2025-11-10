@@ -3,7 +3,7 @@ Quality  Engineer | Exploring AI &amp; Automation | Creator of Zepto Chatbot (Py
 # 👩‍💻 Fiza G — QA Engineer | Exploring AI + Automation  
 
 Welcome to my portfolio!  
-I’m a **QA Engineer with 3.7 years of experience** in *manual and automation testing* (Selenium, API, Python).  
+I’m a **QA Engineer with 3.5+ years of experience** in *manual and automation testing* (Selenium, API, Python).  
 Currently exploring **Prompt Engineering & AI Automation**, combining my QA mindset with new technologies.  
 
 ---
@@ -57,5 +57,4 @@ It answers grocery-related queries, handles FAQs, detects festival offers, and p
 
 📧 **Contact Me:** [fizag2901@gmail.com](mailto:fizag2901@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/fiza-g-9138781a8](https://linkedin.com/in/fiza-g-9138781a8)
-<a href="Fiza G_QualityEngineer_Resume.pdf" target="_blank" class="resume-button">📄 Download My Resume</a>
 📄 **[Download My Resume (PDF)](FizaG_QualityEngineer_Resume.pdf)**
