@@ -14,7 +14,7 @@ It answers grocery-related queries, handles FAQs, detects festival offers, and p
 
 🔗 **Live Demo:** [Zepto Chatbot App](https://zepto-chatbot-demogit-ajbvzf5zvv975bhfzxth6s.streamlit.app/)  
 📂 **Source Code:** [GitHub Repository](https://github.com/Fizag-demo/zepto-chatbot-demo)  
-📄 **Project Document:** [View / Download PDF](https://drive.google.com/uc?export=download&id=1siB05xA2SzmZJn0a1FEmbbs-rdFKAW-i)
+📄 **Project Document:** [View / Download PDF](https://drive.google.com/file/d/1OAFDegnUAEZHsxEA6WXryErhf4MVa5UK/view?usp=sharing)
 
 🧩 **Key Features**
 - Fuzzy text matching for user queries  
